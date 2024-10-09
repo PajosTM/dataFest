@@ -1,0 +1,10 @@
+classroom_id,class_size,teacher_id,class_schedule,department,class_name
+1,40,41,"Monday to Friday, 8:00 AM - 2:00 PM",Science,Science Class 1
+2,43,65,"Monday to Friday, 8:00 AM - 2:00 PM",Science,Science Class 2
+3,40,32,"Monday to Friday, 8:00 AM - 2:00 PM",Arts,Arts Class 1
+4,40,53,"Monday to Friday, 8:00 AM - 2:00 PM",Arts,Arts Class 2
+5,39,5,"Monday to Friday, 8:00 AM - 2:00 PM",Arts,Arts Class 3
+6,74,21,"Monday to Friday, 8:00 AM - 2:00 PM",Commercial,Commercial Class 1
+7,74,17,"Monday to Friday, 8:00 AM - 2:00 PM",Commercial,Commercial Class 2
+8,74,30,"Monday to Friday, 8:00 AM - 2:00 PM",Commercial,Commercial Class 3
+9,76,2,"Monday to Friday, 8:00 AM - 2:00 PM",Commercial,Commercial Class 4
